@@ -1,1 +1,6 @@
-"The app shows you te amount of time you spend while coding and the screen time you have. It is manually activated by clicking the start button which will be completely disabled after the first click. You can pause the stopWatch when done coding for the day and resume later on when you continue coding(the timer will resume from its last stop. It counts the total number of hours for your and also converts the hours to days for your viewing." 
+<h1 align= "center">100-Days Of Code Counter</h1>
+<p align= "center">This short app assists you in counting the amount of time you spend on your screen while coding ...</p>
+<img src = "100-days.png" alt= "Home page">
+
+<p>Created while learning the basics of JavaScript and using bootstrap as a CSS library. Made friendly UI for all. </p>
+<h3>Languages and tools:</h3>
