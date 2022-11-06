@@ -1,4 +1,4 @@
-<h1 align= "center">100-Days Of Code Counter</h1>
+<h1 align= "center">CodeExpose!</h1>
 <p align= "center">This short app assists you in counting the amount of time you spend on your screen while coding ...</p>
 <img src = "100-days.png" alt= "Home page">
 
